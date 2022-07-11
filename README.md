@@ -8,3 +8,6 @@ Using Object Oriented Programming, created a 2D "Street Fighter" type game.
 
 Animated commands/actions such as: idle, run, jump, fall, attack, hit, death.
 -By using image of images, we iterate through the image to create the animation.
+
+Uploading 2D Fighting Game JS.mp4…
+
